@@ -1,4 +1,7 @@
 # 2020 KLab Project Idea!(team 6) : [IdealMood]
+
+[기능 설명 및 발표 자료](https://github.com/HyezNee/KLab/blob/master/result.pdf)
+
 ### 프로젝트 주제 설명
 > 감정 절제 도움 앱    
 > 일상 속에서 스트레스를 받을 때 이를 감지하여 알려주고 솔루션 제공     
